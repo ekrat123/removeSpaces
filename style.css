@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(218, 231, 242);
+  width: 100vw;
+  text-align: center;
+}
+
+#text {
+  background-color: rgba(250, 235, 215, 0.5);
+  width: 50vw;
+  min-height: 30vh;
+}
+
+#result {
+  background-color: rgba(250, 235, 215, 0.5);
+  width: 50vw;
+  min-height: 30vh;
+  text-align: left;
+}
+
+button {
+  display: block;
+  margin: 1rem auto;
+}
