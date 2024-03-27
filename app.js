@@ -21,5 +21,5 @@ btn.addEventListener("click", () => {
 
 btn2.addEventListener("click", () => {
   textArea.value = "";
-  result.textContent = "";
+  result.value = "";
 });
