@@ -20,6 +20,5 @@ btn.addEventListener("click", () => {
 });
 
 btn2.addEventListener("click", () => {
-  textArea.value = "";
-  result.value = "";
+  location.reload(true);
 });
